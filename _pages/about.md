@@ -9,4 +9,4 @@ redirect_from:
 
 Thank you for visiting my personal website, where I share my academic journey, projects, and interests.
 
-![3D direct capturing blender gif](../images/3dFollowing.gif "arm control by DAR in 3D space")
+![3D direct capturing blender gif](images/3dFollowing.gif "arm control by DAR in 3D space")
