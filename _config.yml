@@ -23,7 +23,7 @@ repository               : "aky-u/academic"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "aky_in_zerog.jpg" # filename of avatar image placed in /images/ for author profile
   name             : "Akiyoshi Uchida" 
   pronouns         : # example: "she/her"  
   bio              : "Master's student at Tohoku University. Interested in orbital service and space debris removal." # A short 1-2 sentence bio about yourself.
