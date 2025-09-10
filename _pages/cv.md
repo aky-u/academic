@@ -12,9 +12,14 @@ redirect_from:
 Work experience
 ======
 
+* Fall 2024 - Summer 2025: Research Internship
+  * SpaceR, University of Luxembourg
+  * Duties included: Development of Air Floating Platform
+  * Supervisor: Professor Miguel A. Olivares-Mendez
+
 * Fall 2025: Research Assistant
   * Tohoku University
-  * Duties included: Developing space debris removal method.
+  * Duties included: Development of space debris removal method.
   * Supervisor: Professor Kazuya Yoshida
 
 Skills
