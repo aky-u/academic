@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 This is a space debris capture simulation implemented using [MuJoCo MPC](https://github.com/google-deepmind/mujoco_mpc), which is developed by Mr. Howell Taylor at google deepmind.
+
+![mjpc capture gif](images/orbit_capture.gif)
