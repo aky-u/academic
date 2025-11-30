@@ -24,3 +24,10 @@ I am particularly interested in advanced control, dynamics, and machine learning
 |Flat capture.|Corner capture.|Detumbling.|
 | --- | --- | --- |
 |![Flat capture gif](images/flat_capture.gif "flat")|![Corner capture gif](images/edge_capture.gif "corner")|![Detumbling gif](images/repeated_detumbling.gif "detumbling")|
+
+## Awards
+
+- **Nov 2025**: Awarded **JSPS DC1** (3-year PhD fellowship).
+- **Mar 2025**: Joined [**GP-Mech**](https://pgd.tohoku.ac.jp/english/ijg/program.html) (Graduate Program for Integration of Mechanical Systems).
+- **Jun 2024**: Selected as a [**Tobitate! (Leap for Tomorrow) Study Abroad Initiative**](https://tobitate-mext.jasso.go.jp/about/english.html) scholar (16th).
+- **Jun 2024**: Received the **Best Orbital Robotics Paper Award at iSpaRo 2024**.
