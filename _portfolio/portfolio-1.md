@@ -1,6 +1,6 @@
 ---
 title: "MuJoCo MPC utilization for orbital robot"
-excerpt: "The use case of the MuJoCo MPC for orbital robot - space debris capture task -"
+excerpt: "The use case of the MuJoCo MPC for orbital robot - space debris capture task -<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
