@@ -15,6 +15,8 @@ I completed a 10-month research internship at the SpaceR Laboratory, University 
 My work has been recognized with the Best Paper Award at the 2024 International Conference on Space Robotics (iSpaRo).
 I am particularly interested in advanced control, dynamics, and machine learning approaches for space robotics, aiming to contribute to future on-orbit servicing and debris removal missions.
 
+## Highlights
+
 |Debris capture.|Target tracking.|
 | --- | --- |
 |![3D direct capturing mujoco gif](images/debris_capture_mpc.gif "arm control by DAR in 3D space")|![3D direct capturing mujoco gif](images/follow.gif "arm control by DAR in 3D space")|
