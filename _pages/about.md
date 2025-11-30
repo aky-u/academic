@@ -26,12 +26,12 @@ I am particularly interested in advanced control, dynamics, and machine learning
 
 ## Awards
 
-- **Jun 2024**: Received the **Best Orbital Robotics Paper Award at iSpaRo 2024**.
+- **Jun 2024**: Received the [**Best Orbital Robotics Paper Award**](https://www.mech.tohoku.ac.jp/news/prize/10213/) at iSpaRo 2024.
 - **Mar 2024**: [**Hatakeyama Award**](https://www.jsme.or.jp/event_project/award/hatakeyama-award/), The Japan Society of Mechanical Engineers (JSME).
 
 ## Fellowships & Scholarships
 
-- **Nov 2025**: JSPS Research Fellowship for Young Scientists (DC1).
+- **Nov 2025**: [**JSPS Research Fellowship for Young Scientists**](https://www.jsps.go.jp/english/e-pd/) (DC1).
 - **Jun 2024**: [**Tobitate! (Leap for Tomorrow) Study Abroad Initiative**](https://tobitate-mext.jasso.go.jp/about/english.html), 16th cohort.
 
 ## Programs & Appointments
