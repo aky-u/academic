@@ -26,7 +26,14 @@ I am particularly interested in advanced control, dynamics, and machine learning
 
 ## Awards
 
-- **Nov 2025**: Awarded **JSPS DC1** (3-year PhD fellowship).
-- **Mar 2025**: Joined [**GP-Mech**](https://pgd.tohoku.ac.jp/english/ijg/program.html) (Graduate Program for Integration of Mechanical Systems).
-- **Jun 2024**: Selected as a [**Tobitate! (Leap for Tomorrow) Study Abroad Initiative**](https://tobitate-mext.jasso.go.jp/about/english.html) scholar (16th).
 - **Jun 2024**: Received the **Best Orbital Robotics Paper Award at iSpaRo 2024**.
+- **Mar 2024**: [**Hatakeyama Award**](https://www.jsme.or.jp/event_project/award/hatakeyama-award/), The Japan Society of Mechanical Engineers (JSME).
+
+## Fellowships & Scholarships
+
+- **Nov 2025**: JSPS Research Fellowship for Young Scientists (DC1).
+- **Jun 2024**: [**Tobitate! (Leap for Tomorrow) Study Abroad Initiative**](https://tobitate-mext.jasso.go.jp/about/english.html), 16th cohort.
+
+## Programs & Appointments
+
+- **Mar 2025**: Selected for [**GP-Mech**](https://pgd.tohoku.ac.jp/english/ijg/program.html) (Graduate Program for Integration of Mechanical Systems).
