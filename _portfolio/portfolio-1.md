@@ -1,6 +1,6 @@
 ---
 title: "MuJoCo MPC utilization for orbital robot"
-excerpt: "The use case of the MuJoCo MPC for orbital robot - space debris capture task -
+excerpt: "The use case of the MuJoCo MPC for orbital robot - space debris capture task -"
 collection: portfolio
 ---
 
@@ -8,4 +8,4 @@ This is a space debris capture simulation implemented using [MuJoCo MPC](https:/
 
 |Debris capture.|Target tracking.|
 | --- | --- |
-|![3D direct capturing mujoco gif](images/debris_capture_mpc.gif "arm control by DAR in 3D space")|![3D direct capturing mujoco gif](images/follow.gif "arm control by DAR in 3D space")|
+|![3D direct capturing mujoco gif](/images/debris_capture_mpc.gif "arm control by DAR in 3D space")|![3D direct capturing mujoco gif](images/follow.gif "arm control by DAR in 3D space")|
