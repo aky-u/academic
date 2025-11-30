@@ -18,3 +18,7 @@ I am particularly interested in advanced control, dynamics, and machine learning
 |Debris capture.|Target tracking.|
 | --- | --- |
 |![3D direct capturing mujoco gif](images/debris_capture_mpc.gif "arm control by DAR in 3D space")|![3D direct capturing mujoco gif](images/follow.gif "arm control by DAR in 3D space")|
+
+|Flat capture.|Corner capture.|Detumbling.|
+| --- | --- | --- |
+|![Flat capture gif](images/flat_capture.gif "flat")|![Corner capture gif](images/edge_capture.gif "corner")|![Detumbling gif](images/repeated_detumbling.gif "detumbling")|
