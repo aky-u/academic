@@ -9,9 +9,9 @@ redirect_from:
 
 Thank you for visiting my personal website, where I share my academic journey, projects, and interests.
 
-I am Akiyoshi Uchida, a Master’s student in the Space Robotics Lab (SRL) at Tohoku University, Japan.
+I am Akiyoshi Uchida, a Master’s student in the [Space Robotics Lab (SRL)](https://astro2.mech.tohoku.ac.jp/en/) at Tohoku University, Japan.
 My research focuses on dynamics modeling, identification, and control of free-floating space robots, with applications to on-orbit servicing.
-I completed a 10-month research internship at the SpaceR Laboratory, University of Luxembourg, where I developed a floating platform and conducted both simulation and ground experiments on robotic motion in microgravity environments.
+I completed a 10-month research internship at the [SpaceR](https://www.spacer.lu/), University of Luxembourg, where I developed a floating platform and conducted both simulation and ground experiments on robotic motion in microgravity environments.
 I am particularly interested in advanced control, dynamics, and machine learning approaches for space robotics, aiming to contribute to future on-orbit servicing and debris removal missions.
 
 ## Highlights
