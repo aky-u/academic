@@ -6,7 +6,7 @@ permalink: /publication/2025-12-01-isparo-kenta
 excerpt: 'This paper is about the trajectory optimization to approach to the rotating space debris'
 date: 2025-12-01
 venue: '2025 International Conference on Space Robotics (iSpaRo)'
-paperurl: 'https://arxiv.org/pdf/xxx'
+paperurl: 'https://arxiv.org/pdf/2512.21882'
 citation: 'Kenta Iizuka, Akiyoshi Uchida, Kentaro Uno, Kazuya Yoshida. (2025). &quot;Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking.&quot; <i>2025 International Conference on Space Robotics (iSpaRo)</i>. 1(3).'
 ---
 
