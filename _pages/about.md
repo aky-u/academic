@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my personal website, where I share my academic journey, projects, and interests.
+Thank you for visiting my personal website, where I share my academic journey, research projects, and interests.
 
-I am Akiyoshi Uchida, a Master’s student in the [Space Robotics Lab (SRL)](https://astro2.mech.tohoku.ac.jp/en/) at Tohoku University, Japan.
-My research focuses on dynamics modeling, identification, and control of free-floating space robots, with applications to on-orbit servicing.
-I completed a 10-month research internship at the [SpaceR](https://www.spacer.lu/), University of Luxembourg, where I developed a floating platform and conducted both simulation and ground experiments on robotic motion in microgravity environments.
-I am particularly interested in advanced control, dynamics, and machine learning approaches for space robotics, aiming to contribute to future on-orbit servicing and debris removal missions.
+I am Akiyoshi Uchida, a first-year Ph.D. student in the [Space Infrastructure Engineering Laboratory (SIEL)](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/en/) at Tohoku University, Japan.
+
+Previously, I conducted my master's research at the [Space Robotics Lab (SRL)](https://astro2.mech.tohoku.ac.jp/), where I studied the dynamics, identification, and control of free-floating space robots for on-orbit servicing.
+
+I also completed a 10-month research internship at [SpaceR](https://www.spacer.lu/) at the University of Luxembourg, where I developed a floating platform and conducted simulation and ground-based experiments on robotic motion in microgravity environments.
+
+My current research focuses on dynamics modeling, online system identification, and advanced control of free-floating robotic systems, with applications to on-orbit servicing and active debris removal. I am particularly interested in combining model-based control, optimization, and machine learning to enable autonomous and adaptive space robotic operations.
 
 ## Highlights
 

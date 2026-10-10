@@ -1,0 +1,13 @@
+---
+title: "Contact Approach Strategy for Moment of Inertia Identification of Uncooperative Spacecraft Using Instantaneous Contact Forces"
+collection: publications
+category: conferences
+permalink: /publication/2026-isparo-contact-inertia
+excerpt: 'Investigation of contact probing strategies for identifying the full inertia tensor of uncooperative spacecraft, evaluating structural identifiability, numerical conditioning, and sensitivity to measurement errors.'
+date: 2026-11-03
+venue: '2026 International Conference on Space Robotics (iSpaRo)'
+paperurl: ''
+citation: 'Yuta Muto, Takumi Saito, Akiyoshi Uchida, Keisuke Takehana, and Toshinori Kuwahara. (2026). &quot;Contact Approach Strategy for Moment of Inertia Identification of Uncooperative Spacecraft Using Instantaneous Contact Forces.&quot; <i>2026 International Conference on Space Robotics (iSpaRo)</i>.'
+---
+
+Contact-based inertial parameter estimation is a promising approach for identifying the mass properties of uncooperative spacecraft during pre-capture on-orbit servicing. However, the contact conditions required for structurally identifiable and numerically well-conditioned full inertia-tensor estimation have not been sufficiently clarified. This paper proposes an observation-matrix-based evaluation framework for rod-based contact probing. The proposed framework evaluates contact conditions using the rank, condition number, and minimum singular value of the observation matrix, thereby enabling contact-condition design to be discussed without relying only on estimation errors from a particular simulation case. Using this framework, contact surface geometry, contact position, contact direction, impact velocity, and initial target motion are evaluated as probing conditions that shape the observation matrix for inertia tensor estimation. The nominal analysis shows that structural identifiability is governed primarily by the geometric and directional diversity of the generated angular impulse, while impact velocity mainly affects excitation magnitude. Input-error analysis further shows that perturbations in the observation matrix and angular-impulse evaluation can significantly degrade estimation accuracy, with attitude error being the dominant limiting factor under the present conditions. The proposed framework provides a quantitative basis for selecting contact conditions and identifying sensing requirements for robust contact-based inertia tensor estimation.

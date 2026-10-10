@@ -1,0 +1,13 @@
+---
+title: "Nonlinear Optimization-Based Trajectory Planning for Safe Final Approach to a Tumbling Spacecraft with Geometry-Aware Keep-Out Zones"
+collection: publications
+category: conferences
+permalink: /publication/2026-isparo-final-approach-iizuka
+excerpt: 'Three-dimensional nonlinear trajectory optimization for safe final approach to tumbling spacecraft using geometry-aware keep-out zones and docking corridors, validated with PWM-based on/off thruster simulations.'
+date: 2026-01-01
+venue: '2026 International Conference on Space Robotics (iSpaRo)'
+paperurl: ''
+citation: 'Kenta Iizuka, Akiyoshi Uchida, Keisuke Takehana, Teruhiro Kataonami, and Toshinori Kuwahara. (2026). &quot;Nonlinear Optimization-Based Trajectory Planning for Safe Final Approach to a Tumbling Spacecraft with Geometry-Aware Keep-Out Zones.&quot; <i>2026 International Conference on Space Robotics (iSpaRo)</i>.'
+---
+
+This study proposes a three-dimensional nonlinear-optimization-based trajectory planning method for the final approach to an uncooperative tumbling spacecraft in on-orbit robotic servicing. Our previous work addressed offline trajectory optimization for a flat-spin target rotating in a plane. However, practical servicing targets often have appendages such as solar panels, and three-dimensional target rotation makes the keep-out zones (KOZs) around the target time-varying. Therefore, the chaser must reach a capture-compatible terminal relative state while avoiding both the target body and its moving appendages. To address this problem, this study extends our previous two-dimensional final-approach formulation to three dimensions and introduces a geometry-aware KOZ based on the target body, appendages, and an admissible docking corridor. The chaser trajectory is optimized under terminal requirements, input constraints, and collision-avoidance constraints, and its trackability is evaluated through a dynamics simulation using PWM-based on/off thrusters. Numerical simulations for a panel-equipped rotating target show that the proposed formulation can generate terminally convergent collision-avoiding three-dimensional final-approach trajectories while allowing access to the docking region through the geometry-aware corridor. Furthermore, the tracking simulation confirms that, in the representative case, the optimized reference trajectory can be followed by PWM-based on/off thrusters while maintaining collision-free operation throughout the simulation, supporting the applicability of the proposed framework to final-approach trajectory generation for future on-orbit robotic servicing missions.
